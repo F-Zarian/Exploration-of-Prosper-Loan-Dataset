@@ -25,3 +25,7 @@ The plots used for this explotration include histograms, heatmaps, violin plots,
 # Resources
 
 ### [Udacity Data Analyst Nanodegree - Data Visualization Course](https://classroom.udacity.com/nanodegrees/nd002/parts/9f7e8991-8bfb-4103-8307-3b6f93f0ecc7)
+
+# License
+
+### The contents of this repository are covered under the [MIT License](https://github.com/F-Zarian/Exploration-of-Prosper-Loan-Dataset/blob/main/LICENSE).
