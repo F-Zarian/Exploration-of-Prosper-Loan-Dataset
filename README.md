@@ -1,4 +1,4 @@
-# Exploration of Prosper Loan Dataset
+# Exploration of Prosper Loan Dataset Using Python
 
 ## Project Overview
 This project explores data from Prosper which is America's first [marketplace lending platform](https://www.prosper.com/personal-loans). Prosper has funded over 12 billion dollars in loans. On porsper, borrowers list their loan requests between 2,000 and 40,000 dollars and individual investors can invest in as little as 25 dollars in their listing of choice.
